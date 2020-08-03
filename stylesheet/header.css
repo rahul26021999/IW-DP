@@ -71,19 +71,19 @@ section {
     height: 260px;
 }
 
-.designed {
+.designe {
     width: 100%;
     border-top: 1px grey solid;
     margin-bottom: 0px;
     padding: 5px;
 }
 
-.designed a {
+.designe a {
     color: white;
     text-decoration: none;
 }
 
-.designed a:hover {
+.designe a:hover {
     color: orangered;
     text-decoration: none;
     font-weight: bold;
