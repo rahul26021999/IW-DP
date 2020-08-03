@@ -2,6 +2,12 @@ html {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.topMargin {
+    position: relative;
+    top: 50px;
+    margin-bottom: 50px;
+}
+
 header {
     background: #1a5276;
 }
