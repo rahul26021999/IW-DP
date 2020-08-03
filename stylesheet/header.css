@@ -71,9 +71,27 @@ section {
     height: 260px;
 }
 
+.designed {
+    width: 100%;
+    border-top: 1px grey solid;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
+.designed a {
+    color: white;
+    text-decoration: none;
+}
+
+.designed a:hover {
+    color: orangered;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 footer {
     /*position: fixed;*/
-  /*  bottom: 0;
+    /*  bottom: 0;
     width: 100%;
     left: 0;*/
 }
